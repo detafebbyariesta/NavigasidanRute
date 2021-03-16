@@ -1,6 +1,8 @@
 # belanja
 
-A new Flutter project.
+![ss1](https://user-images.githubusercontent.com/70737655/111277533-237dc600-866b-11eb-9f3b-d2d3ff389e57.jpg)
+![ss2](https://user-images.githubusercontent.com/70737655/111277553-28427a00-866b-11eb-86cd-35774a441977.jpg)
+
 
 ## Getting Started
 
